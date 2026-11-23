@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Environment variables and secrets
+.env
+
+# Logs
+*.log
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+Thumbs.db
+.DS_Store
